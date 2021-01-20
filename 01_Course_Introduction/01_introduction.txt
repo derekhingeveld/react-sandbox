@@ -1,0 +1,31 @@
+Who Is This Course For?
+- Want to learn React from the ground up
+- Want to learn State management (Hooks, Context API / Redux)
+- Want to learn full stack MERN
+- Want to build some projects
+
+Project 1 - Github Finder
+- React Folder Structure
+- Components, props, state 
+- ENV Variables
+- HTTP Request/Response
+- Class/Lifecycle
+- Functions/Hooks
+- Context API w/ useContext & useReducer
+
+Project 2 - Contact Keeper (Full Stack)
+- Express Backend API
+- JWT (JSON Web Token)
+- MongoDB / Mongoose
+- Password Encryption
+- React Hooks
+- Context API (Store JWT, etc)
+- Route Protection
+
+Project 3 - ITLogger (Redux)
+- Redux State Management 
+- Actions & Reducers 
+- React-Redux 
+- Redux Thunk 
+- JSON-Server API 
+- Materialize UI (Modals, Toasts, etc) 

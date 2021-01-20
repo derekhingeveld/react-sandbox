@@ -1,0 +1,8 @@
+Project 2 - Contact Keeper (Full Stack)
+- Express Backend API
+- JWT (JSON Web Token)
+- MongoDB / Mongoose
+- Password Encryption
+- React Hooks
+- Context API (Store JWT, etc)
+- Route Protection

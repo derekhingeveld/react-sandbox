@@ -1,0 +1,8 @@
+Project 1 - Github Finder
+- React Folder Structure
+- Components, props, state 
+- ENV Variables
+- HTTP Request/Response
+- Class/Lifecycle
+- Functions/Hooks
+- Context API w/ useContext & useReducer

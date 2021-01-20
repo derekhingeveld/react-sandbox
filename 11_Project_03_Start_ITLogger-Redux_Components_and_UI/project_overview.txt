@@ -1,0 +1,7 @@
+Project 3 - ITLogger (Redux)
+- Redux State Management 
+- Actions & Reducers 
+- React-Redux 
+- Redux Thunk 
+- JSON-Server API 
+- Materialize UI (Modals, Toasts, etc) 

@@ -1,0 +1,17 @@
+Install Node.js, which comes with NPM that we use to install React
+
+Install a text editor like VSCode, Atom, or Sublime
+
+Install Git which is a version control system for saving your code to the cloud.
+
+Install the following Chrome extensions:
+- React Developer Tools
+- Redux DevTools
+
+Install Postman which essentially is an HTTP client used to test APIs.
+
+Recommended VSCode extensions:
+- ES7 React/Redux/GraphQL/React-Native snippets
+- Bracket Pair Colorizer
+- Auto Rename Tag
+- Prettier (set to use single quotes instead of double quotes)

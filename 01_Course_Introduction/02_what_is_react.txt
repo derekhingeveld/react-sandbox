@@ -1,0 +1,27 @@
+What Is React?
+A Client Side JavaScript library
+- Created & maintained by facebook
+- Used to build dynamic user interfaces
+- "Component" based
+- Most popular framework in the industry
+
+Library or Framework?
+React is "technically" a library but is often referred to as a framework as it is used for many of the same reasons as a framework.  But is more barebones that other frameworks like Angular or Vue.js.  
+
+For instance it doesn't include a router, it doesn't include an http client like angular. However you can install things very easily, you can install React Router that we can install, we can use the fetch api or axios for http calls.  
+
+So at it's core it's much more comparable to to a front end framework like angular than a javascript library like jquery.  It's really nothing like jquery. So most people do refer to it as a framework. And the main 3 frameworks at least right now in 2019 are React, Vue.js and Angular.
+
+Why Learn & Use React?
+- Build a powerful Frontend/UI
+- Code Organization
+- Reusable components 
+- Speed & Performance 
+- Makes things much easier
+- Very popular in the industry 
+
+Components Based UI
+- Look at each element as individual components
+- Organized structure
+- Logic, output & style 
+- Components can have "props" & "state"
